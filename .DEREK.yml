@@ -3,4 +3,5 @@ maintainers:
 features:
  - dco_check
  - comments
+ - commit_linting
  
